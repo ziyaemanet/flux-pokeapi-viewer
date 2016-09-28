@@ -1,0 +1,16 @@
+.pokemon{
+  width: 130px;
+}
+
+#modal-inner{
+  width:133px;
+}
+
+.modal-content{
+  width:135px;
+  margin: auto;
+}
+
+#pokedex{
+  text-align: center;
+}
